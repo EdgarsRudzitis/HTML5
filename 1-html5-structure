@@ -23,7 +23,7 @@
 
         <p>Here is some <del>deleted</del> text</p>
 
-        <h3>This is an h3 header</h3>
+        <h3>This is an h3 header  for &lt;ul&gt; and &lt;ol&gt;</h3>
 
         <ul>
 
