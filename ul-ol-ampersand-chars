@@ -1,32 +1,32 @@
 
-<body>
-        <h3>This is an h3 header for &lt;ul&gt; and &lt;ol&gt;</h3>
+        <body>
+                <h3>This is an h3 header for &lt;ul&gt; and &lt;ol&gt;</h3>
 
-        <ul>
+                <ul>
 
-            <li><strong>Rob</strong></li>
+                    <li><strong>Rob</strong></li>
 
-            <li><em>Kirsten</em></li>
+                    <li><em>Kirsten</em></li>
 
-            <li><del>Tommy</del></li>
+                    <li><del>Tommy</del></li>
 
-            <li><ins>Ralphie</ins></li>
+                    <li><ins>Ralphie</ins></li>
 
-        </ul>
+                </ul>
 
-        <!-- start="10" ; reversed ; type 1,A,I,a,i  can be used inside <ol> tag -->
-        <ol>
+                <!-- start="10" ; reversed ; type 1,A,I,a,i  can be used inside <ol> tag -->
+                <ol>
 
 
-            <li><strong>Rob</strong></li>
+                    <li><strong>Rob</strong></li>
 
-            <li><em>Kirsten EM</em></li>
+                    <li><em>Kirsten EM</em></li>
 
-            <li><del>Tommy</del></li>
+                    <li><del>Tommy</del></li>
 
-            <li><ins>Ralphie</ins></li>
+                    <li><ins>Ralphie</ins></li>
 
-        </ol>
+                </ol>
 
-</body>
+        </body>
 </html>
